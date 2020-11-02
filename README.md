@@ -17,6 +17,9 @@ Python
 SQL
 HTML dan CSS
 
+## Status Pekerjaan
+Peserta Bootcamp Android Kotlin di Refactory - sekolahdesain.id
+
 ## Pengalaman Kerja
 
 ### PT.Ternaknesia Farm Innovation
